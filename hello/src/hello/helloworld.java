@@ -8,4 +8,8 @@ public class helloworld {
 	public int getNumber() {
 		return 0;
 	}
+// Adding another method to test if the local repository sees the difference.
+	public int getCode() {
+		return 0;
+	}
 }
